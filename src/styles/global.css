@@ -20,6 +20,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-color: var(--black-color);
+}
+
 .press-start {
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
